@@ -14,3 +14,7 @@
 13. Check the various functionalities of our application. 
 14. For logging in and other searching activities, refer to the username and passwords already inserted inside the database for correct authentication.
 15. Hope you enjoy using our app. 
+
+
+Medical authorities can enter the info of vaccinated patients at their centers, after which their fingerprint should be registered. This gets updated to the database. Proof is administered by producing a digital certificate after vaccination. This can be verified at Airports, Railway Stations. etc. This will ensure that the whole process of public transportation happens with fluidity, making sure that public health risk is maintained. It needs to be noted that the airport authorities will be given access to the database, verification can not only be done by fingerprint, but also by entered the Unique ID. After getting vaccinated, if the patient suffers from any side effects, the doctors can update that through our web portal. This will be helpful for keeping track and further improving the effectiveness of the vaccine for the future.
+
