@@ -12,5 +12,5 @@
 -Open command prompt and navigate to the directory where all these files are situated and type "node app.js" and check if it gets connected and running.
 -Open browser and navigate to localhost:3000.
 -Check the various functionalities of our application. 
--For logging in and other searching activities refer to the username and passwords already inserted inside the database for correct authentication.
+-For logging in and other searching activities, refer to the username and passwords already inserted inside the database for correct authentication.
 -Hope you enjoy using our app. 
